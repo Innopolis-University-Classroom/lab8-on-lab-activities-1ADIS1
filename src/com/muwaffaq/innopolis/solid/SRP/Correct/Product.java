@@ -1,4 +1,4 @@
-package Test.SOLID;
+package Correct;
 
 public class Product {
 }
